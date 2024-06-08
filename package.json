@@ -1,0 +1,21 @@
+{
+  "name": "desafio_roomates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Luis Felipe Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13",
+    "uuid": "^9.0.1"
+  }
+}
